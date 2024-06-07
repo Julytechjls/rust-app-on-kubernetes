@@ -1,3 +1,4 @@
+[question.odt](https://github.com/user-attachments/files/15742414/question.odt)
 # Rust on Kubernetes with Minikube
 
 This repository provides a guide on deploying and scaling a Rust application on Kubernetes using Minikube.
